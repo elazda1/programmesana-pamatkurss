@@ -1,1 +1,1 @@
-print(lMans pirmais commit!l)
+print(lMans pirmais commit!g)
