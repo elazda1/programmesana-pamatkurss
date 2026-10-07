@@ -1,1 +1,1 @@
-print("Mans pirmais commit!l)
+print(lMans pirmais commit!l)
