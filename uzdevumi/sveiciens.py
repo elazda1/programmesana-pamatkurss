@@ -1,0 +1,1 @@
+print(lMans pirmais commit!l)
